@@ -1,2 +1,2 @@
-# RedHookLead
-Interactive NYC Tree Map at this [link](https://bmaillou.github.io/RedHookLead
+# BarnardTrees
+Interactive map of trees around Barnrd Campus [link](https://bmaillou.github.io/BarnardTrees
